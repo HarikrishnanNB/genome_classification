@@ -28,7 +28,7 @@ Reference Paper:
 
 1. unzip binary_class.7z (Data Source: https://github.com/albertotonda/deep-learning-coronavirus-genome/tree/master/Corona%20V5.2/data, Reference: Lopez-Rincon, A., Tonda, A., Mendoza-Maldonado, L., Claassen, E., Garssen, J., & Kraneveld, A. D. (2020). Accurate identification of sars-cov-2 from viral genome sequences using deep learning. bioRxiv.)
 2. unzip multi_class.7z (Data Source: https://github.com/albertotonda/deep-learning-coronavirus-genome/tree/master/Corona%20V5.2/data, Reference: Lopez-Rincon, A., Tonda, A., Mendoza-Maldonado, L., Claassen, E., Garssen, J., & Kraneveld, A. D. (2020). Accurate identification of sars-cov-2 from viral genome sequences using deep learning. bioRxiv.)
-3. unzip PREPROCESSED_DATA.7z (larger binary classificaton data)
+3. unzip PREPROCESSED_DATA.7z (larger binary classificaton data). The dataset can be downloaded from [here](https://drive.google.com/drive/folders/1ysvHLL879iHvoV5YX1Gj7UkRm6jbQ3WR?usp=sharing). 
 4. main_hyperparameter_tuning.py - file to find the best hyperparametes. 
 5. plot_main_hyperparameter_tuning.py - plots the average f1score for three fold validation vs. epsilon
 6. main_five_fold.py - file to do five fold validation for binary classificaion and multiclass classification.
