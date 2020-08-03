@@ -16,8 +16,11 @@ Reference Paper:
 ### Dependencies
 
 1.``` Python 3```
+
 2. ```Numpy```
+
 3. ```Numba```
+
 4. ```Matplotlib```
 
 ### Installation
