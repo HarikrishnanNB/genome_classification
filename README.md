@@ -5,7 +5,7 @@ Neurochaos-SVM based classification of SARS-CoV-2 among coronaviruses
 
 ## Neurochaos - SVM
 
-[https://www.youtube.com/watch?v=8JQstLi4COk](Video explanation on YouTube) on the usage of chaotic maps as kernels and highlighting chief ideas and inspiration.
+(https://www.youtube.com/watch?v=8JQstLi4COk)[Video explanation on YouTube] on the usage of chaotic maps as kernels and highlighting chief ideas and inspiration.
 
 Reference Paper:
 
