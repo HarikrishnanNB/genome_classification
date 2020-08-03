@@ -15,14 +15,27 @@ Reference Paper:
 
 ### Dependencies
 
-1. Python 3
-2. Numpy
-3. Numba
-4. Matplotlib
+1.``` Python 3```
+2. ```Numpy```
+3. ```Numba```
+4. ```Matplotlib```
 
 ### Installation
 
 1. git-clone into a working directory
+
+### How to run
+
+1. unzip binary_class.7z (Data Source: https://github.com/albertotonda/deep-learning-coronavirus-genome/tree/master/Corona%20V5.2/data, Reference: Lopez-Rincon, A., Tonda, A., Mendoza-Maldonado, L., Claassen, E., Garssen, J., & Kraneveld, A. D. (2020). Accurate identification of sars-cov-2 from viral genome sequences using deep learning. bioRxiv.)
+2. unzip multi_class.7z (Data Source: https://github.com/albertotonda/deep-learning-coronavirus-genome/tree/master/Corona%20V5.2/data, Reference: Lopez-Rincon, A., Tonda, A., Mendoza-Maldonado, L., Claassen, E., Garssen, J., & Kraneveld, A. D. (2020). Accurate identification of sars-cov-2 from viral genome sequences using deep learning. bioRxiv.)
+3. unzip PREPROCESSED_DATA.7z (larger binary classificaton data)
+4. main_hyperparameter_tuning.py - file to find the best hyperparametes. 
+5. plot_main_hyperparameter_tuning.py - plots the average f1score for three fold validation vs. epsilon
+6. main_five_fold.py - file to do five fold validation for binary classificaion and multiclass classification.
+7. main_binary_class_low_training_sample.py - executing file for low training sample regime for binary classification task.
+8. plot_additional_data.py - plots for the the low training sample regime for the larger binary classification task.
+9. main_multi_class_low_training_sample.py - executing file for low training sample regime for binary classification task.
+10. plot_multi_class_low_training_sample.py - plots for the the low training sample regime for the multiclass classification task.
 
 ### Licence
 
