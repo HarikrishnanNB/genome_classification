@@ -13,4 +13,16 @@ Reference Paper:
 
 2) Harikrishnan Nellippallil Balakrishnan, Aditi Kathpalia, Snehanshu Saha, Nithin Nagaraj, "ChaosNet: A chaos based artificial neural network architecture for classification", Chaos: An  Interdisciplinary  Journal  of  Non-linear  Science, Vol. 29, No. 11, pp. 113125-1 -- 113125-17 (2019); https://doi.org/10.1063/1.5120831 
 
+### Dependencies
+
+1. Python 3
+2. Numpy
+3. Numba
+4. Matplotlib
+
+### Installation
+
+1. git-clone into a working directory
+
+
 
