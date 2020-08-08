@@ -8,7 +8,7 @@ Email: harikrishnannb07@gmail.com
 """
 from Codes import low_training_sample_binary_class
 CLASSIFICATION_TYPE = "larger_binary_class"
-TRIALS = 50
+TRIALS = 1000
 MAX_SAMPLES = 10
 INITIAL_NEURAL_ACTIVITY = 0.34
 DISCRIMINATION_THRESHOLD = 0.499
