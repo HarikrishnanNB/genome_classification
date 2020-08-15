@@ -5,7 +5,7 @@ larger dataset. Go to five_fold_valifation.py in Codes.py to edit the function.
 """
 from Codes import five_fold_validation
 
-EPSILON = 0.1835
+EPSILON = 0.183
 INITIAL_NEURAL_ACTIVITY = 0.34
 DISCRIMINATION_THRESHOLD = 0.499
 CLASSIFICATION_TYPE = "larger_data_binary_class"
