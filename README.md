@@ -37,7 +37,7 @@ Reference Paper:
 6. main_five_fold.py - file to do five fold validation for binary classificaion and multiclass classification.
 7. main_binary_class_low_training_sample.py - executing file for low training sample regime for binary classification task.
 8. plot_additional_data.py - plots for the the low training sample regime for the larger binary classification task.
-9. main_multi_class_low_training_sample.py - executing file for low training sample regime for binary classification task.
+9. main_multi_class_low_training_sample.py - executing file for low training sample regime for multiclass classification task.
 10. plot_multi_class.py - plots for the the low training sample regime for the multiclass classification task.
 
 ### Licence
