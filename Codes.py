@@ -27,6 +27,8 @@ from load_data import get_data
 
 def hyperparameter_tuning_bc(classification_type, epsilon, initial_neural_activity, discrimination_threshold):
     """
+    This module does hyperparameter tuning to find the best epsilon,
+    and discrimination threshold.
     Parameters
     ----------
     classification_type : string
@@ -182,6 +184,9 @@ def hyperparameter_tuning_bc(classification_type, epsilon, initial_neural_activi
 
 def classification_report_csv_(report, num_classes):
     """
+    This module returns the classfication metric for binary classification and
+    five class classification as a dataframe. The module currently works for
+    binary and five class classification.
     Parameters
     ----------
     report : classification metric report
@@ -393,8 +398,8 @@ def five_fold_validation(classification_type, epsilon, initial_neural_activity, 
 def low_training_sample_binary_class(classification_type, trials, max_samples, initial_neural_activity, discrimination_threshold, epsilon):
     """
 
-    This is the function module for the low training sample regime for binary
-    classification dataset
+    This is the module for the low training sample regime for binary
+    classification dataset.
 
     Parameters
     ----------
