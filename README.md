@@ -42,7 +42,7 @@ Reference Paper:
 
 ### Licence
 
-Copyright 2020 Harikrishnan N. B., Pranay Yadav, and Nithin Nagaraj
+Copyright 2020 [Harikrishnan N. B.](https://github.com/HarikrishnanNB), [Pranay Yadav](https://github.com/pranaysy), and [Nithin Nagaraj](https://sites.google.com/site/nithinnagaraj2/)
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 ```
