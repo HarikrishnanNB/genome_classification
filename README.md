@@ -3,7 +3,7 @@
 
 ## ChaosFEX - Feature Extraction using Chaos
 
-### Neurochaos - SVM
+### ChaosFEX+SVM
 
 [Video explanation on YouTube](https://www.youtube.com/watch?v=8JQstLi4COk) on the usage of chaotic maps as kernels and highlighting chief ideas and inspiration.
 
