@@ -1,4 +1,4 @@
-# Neurochaos-SVM based classification of SARS-CoV-2 among coronaviruses
+# ChaosFEX: Neurochaos Inspired Chaotic Features for Genome Classification
 
 
 ## ChaosFEX - Feature Extraction using Chaos
