@@ -1,5 +1,4 @@
-# ChaosFEX: Neurochaos Inspired Chaotic Features for Genome Classification
-
+# ChaosFEX: A Neurochaos Learning Architecture for Genome Classification
 
 ## ChaosFEX - Feature Extraction using Chaos
 
